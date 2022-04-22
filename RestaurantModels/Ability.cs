@@ -1,4 +1,8 @@
-# Restaurant Review 
+namespace RestaurantModels;
+
+/*
+ *
+ * # Restaurant Review 
 
 ## Overview 
 
@@ -43,3 +47,12 @@
 - Serilog or Nlog (or any other logging frameworks) 
 
  
+ * 
+ */
+
+public class Ability
+{
+ 
+    
+
+}

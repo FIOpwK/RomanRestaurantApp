@@ -1,0 +1,22 @@
+nltk.tokenizer
+
+real workd
+we want to create clean data
+
+to clean data comes in as input
+convert it to string
+make it lowercase
+
+cleanDataAsString
+    replace "cleanregex" "replaceregex"
+    
+for word in x
+if word not in exlude list
+    keep that word
+    
+lamatize = testing tested tests
+
+
+
+
+
